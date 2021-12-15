@@ -5,7 +5,8 @@
 }
 
 html {
-  font-size: 14px;
+  font-size: 17px;
+  color: black;
 }
 
 ul {
@@ -129,7 +130,7 @@ header {
 
 .links > ul > li > a > i {
     font-size: 35px;
-    color: white;
+    color: whitesmoke;
 }
 
 
@@ -149,7 +150,7 @@ header {
 }
 
 aside {
-    width: 200px;
+    width: 250px;
 }
 
 .newsfeed {
